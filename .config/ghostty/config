@@ -1,0 +1,7 @@
+font-family = JetBrainsMono Nerd Font
+font-size = 13
+background = #0a0a0f
+foreground = #f0f0f5
+background-opacity = 0.9
+window-decoration = false
+cursor-style = block
