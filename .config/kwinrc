@@ -1,0 +1,17 @@
+[Desktops]
+Id_1=a54bda95-4511-4a59-b724-6a9b2bf45c43
+Number=1
+Rows=1
+
+[Tiling][a54bda95-4511-4a59-b724-6a9b2bf45c43][be79aa1b-9dbe-4818-9c77-cc314569ffa3]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][b2a326a3-4274-5348-8c9c-89bf46202e91]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Xwayland]
+Scale=1
+
+[org.kde.kdecoration2]
+library=org.kde.kwin.aurorae.v2
